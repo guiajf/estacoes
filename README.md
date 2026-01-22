@@ -520,6 +520,8 @@ fullscreen_plugin = Fullscreen(
 m
 ```
 
+![png](output_38_0.png)
+
 ### Mapa de densidade das estações
 
 
@@ -623,6 +625,8 @@ fullscreen_plugin = Fullscreen(
 # Exibir mapa
 m
 ```
+
+![png](output_42_0.png)
 
 **Considerações finais:**
 
