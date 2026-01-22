@@ -428,11 +428,9 @@ fullscreen_plugin = Fullscreen(
 ).add_to(m)
 
 m
-
-# Salvar mapa
-#m.save('mapa_estacoes_inmet.html')
-#print("Mapa salvo como 'mapa_estacoes_inmet.html'")
 ```
+
+![png](output_36_0.png)
 
 ### Mapa coroplético por UF
 
