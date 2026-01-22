@@ -242,7 +242,7 @@ ax.axis("off")
 
 
     
-![png](output_19_1.png)
+![png](output_34_1.png)
     
 
 
