@@ -639,6 +639,7 @@ As previsões metereológicas são realizadas em supercomputadores, através de 
 https://wp.ufpel.edu.br/mateusteixeira/files/2021/12/Curso_def_civil_estacoes_meteorologicas.pdf<br>
 https://www2.ufjf.br/labcaa/rede-de-estacoes-inmet/<br>
 https://portal.inmet.gov.br/sobre-meteorologia<br>
+https://github.com/ipeaGIT/geobr<br>
 https://www.cemtec.ms.gov.br/wp-content/uploads/2019/02/Nota_Tecnica-Rede_estacoes_INMET.pdf
 
 
