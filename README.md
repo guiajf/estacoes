@@ -440,7 +440,10 @@ O mapa a seguir exibe o percentual das estações metereológicas operantes por 
 
 
 ```python
-estados_merged = estados.merge(contagem_uf, left_on='abbrev_state', right_on='uf', how='left')
+estados_merged = estados.merge(contagem_uf,
+                                left_on='abbrev_state',
+                                right_on='uf',
+                                how='left')
 
 ```
 
