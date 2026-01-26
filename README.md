@@ -447,7 +447,7 @@ estados_merged = estados.merge(contagem_uf,
 
 ```
 
-**Adicionamos a camada coroplética**
+**Adicionamos a camada coroplética:**
 
 Para criar o mapa coroplético, podemos utilizar a classe *folium.Choropleth* ou a classe *folium.GeoJson*. A primeira é mais adequada para casos simples, enquanto a segunda proporciona maior flexibilidade para personalizações avançadas — opção dotada neste caso.
 
